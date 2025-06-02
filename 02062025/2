@@ -1,0 +1,25 @@
+#https://takeuforward.org/pattern/pattern-2-right-angled-triangle-pattern/
+
+
+
+# n=int(input())
+
+# for i in range(n):
+#   for j in range(i+1):
+#     print("*",end="")
+#   print()
+
+# TO : O(n**2)
+# SO : O(1)
+
+
+n=int(input())
+
+for i in range(n):
+    print("*"*n)
+
+# TO : O(n)
+# SO : O(1)
+
+
+

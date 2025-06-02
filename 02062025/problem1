@@ -1,0 +1,39 @@
+question
+
+https://takeuforward.org/pattern/pattern-1-rectangular-star-pattern/
+
+
+solutions.
+
+
+
+
+# n=int(input())
+
+# for i in range(n):
+#     print("*"*n)
+
+
+# TO : O(n)
+# SO : O(1)
+
+
+
+
+
+
+# n=int(input())
+
+# for i in range(n):
+#     for j in range(n):
+#         print("*",end="")
+#     print("\n") #print()
+
+# TO : O(n**2)
+# SO : O(1)
+
+
+
+
+
+references
