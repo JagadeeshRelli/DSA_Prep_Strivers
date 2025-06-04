@@ -1,0 +1,26 @@
+#https://takeuforward.org/pattern/pattern-4-right-angled-number-pyramid-ii/
+
+
+
+# n=int(input())
+
+# for i in range(n):
+#     print(str((i+1))*(i+1))
+
+
+# SO= O(1)
+# TO= O(n)
+
+
+
+n=int(input())
+
+for i in range(n):
+    for j in range(i+1):
+      print(i+1,end="")
+    print()
+
+
+
+# SO= O(1)
+# TO= O(n**2)
