@@ -39,8 +39,8 @@ func(n,n)
 
 
 
-so o(n)
-to o(n**2)
+# so o(n)
+# to o(n**2)
 
 
 

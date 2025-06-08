@@ -12,5 +12,5 @@ for i in range(n):
   print()
 
 
-  TO = O(n**2)
-  SO = O(1)
+  # TO = O(n**2)
+  # SO = O(1)
